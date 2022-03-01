@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-server-wn22-1",
+  "version": "1.0.0",
+  "description": "Our first node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newmanix/nodejs-server-wn22-10.git"
+  },
+  "author": "Bill Newman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newmanix/nodejs-server-wn22-10/issues"
+  },
+  "homepage": "https://github.com/newmanix/nodejs-server-wn22-10#readme"
+}
